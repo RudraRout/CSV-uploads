@@ -18,4 +18,4 @@ Simply pull the project files and install all the dependencies provided in packa
 
 # Deployement 
 Project already deployed on Heroku.
-Visit:https://csvupload0.herokuapp.com/
+Visit:
